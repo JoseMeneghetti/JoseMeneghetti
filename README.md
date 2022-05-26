@@ -1,7 +1,7 @@
 # Hi there, I'm José Meneghetti 👋                                                                 
-2nd year, B.Tech Civil Engineering                                                    
 🎓 FATEC, São Paulo-SP, Brazil                                       
-🎓 PIMA, Tucson-AZ, USA                                       
+🎓 PIMA, Tucson-AZ, USA
+👷 Senior Software Engineering Analyst at Accenture
 [E-mail](mailto:jrmp.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ricardo-meneghetti-pinto-6b049695/) | [Facebook](https://www.facebook.com/zee.meneghetti) | [Instagram](https://www.instagram.com/jose_meneghetti/) | [GitHub](https://github.com/JoseMeneghetti) 
 
 
@@ -15,10 +15,10 @@
   
 * I am a Software Engineer from Brazil 🏡
 * I've couple years of experience working with software languages.
-* Working with designing projects, and solving technological problems.
+* Working with designing projects, and solving technological problems 👾.
 * These years I have been specializing in WEB languages, frameworks, and platforms 🚀✨. 
 * Currently working as a full-stack. 
-* Acting in React NodeJS & Magento and React, NodeJS & VTEX and in some personal projects with NextJS. 👷🔨
+* Acting in React NodeJS & Magento and React, NodeJS & VTEX and in some personal projects with NextJS 🔨. 
 
 ## 📌 Tools & Techs 📌
 

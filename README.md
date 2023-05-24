@@ -18,7 +18,7 @@
 * Working with designing projects, and solving technological problems 👾.
 * These years I have been specializing in WEB languages, frameworks, and platforms 🚀✨. 
 * Currently working as a full-stack. 
-* Acting in React NodeJS & Magento and React, NodeJS & VTEX and in some personal projects with NextJS 🔨. 
+* Acting in React NodeJS & Magento, and in some personal projects with NextJS 🔨. 
 
 ## 📌 Tools & Techs 📌
 

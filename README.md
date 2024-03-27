@@ -1,7 +1,7 @@
 # Hi there, I'm José Meneghetti 👋                                                                 
 🎓 FATEC, São Paulo-SP, Brazil<br>
 🎓 PIMA, Tucson-AZ, USA<br>
-👷 Senior Software Engineering Analyst at Accenture<br>
+👷 Senior Software Engineering Analyst at Docu-tools<br>
 [E-mail](mailto:jrmp.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ricardo-meneghetti-pinto-6b049695/) | [Facebook](https://www.facebook.com/zee.meneghetti) | [Instagram](https://www.instagram.com/jose_meneghetti/) | [GitHub](https://github.com/JoseMeneghetti) 
 
 
